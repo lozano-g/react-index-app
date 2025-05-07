@@ -1,0 +1,52 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "Guloz",
+      "picture": "",
+      "types": [
+        "PHP",
+        "HTML",
+        "SQL",
+        "UNIX",
+        "C",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Guloz",
+      "picture": "",
+      "types": [
+        "PHP",
+        "HTML",
+        "SQL",
+        "UNIX",
+        "C",
+        "CSS"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Guloz",
+      "picture": "",
+      "types": [
+        "PHP",
+        "HTML",
+        "SQL",
+        "C",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "id": 1746550592530,
+      "name": "guloz",
+      "picture": "",
+      "types": [
+        "PHP"
+      ]
+    }
+  ]
+}

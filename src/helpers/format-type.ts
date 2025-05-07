@@ -2,37 +2,37 @@ const formatType = (type: string): string => {
     let color: string;
    
     switch (type) {
-      case 'Feu': 
+      case 'HTML': 
         color = 'red lighten-1'; 
         break; 
-      case 'Eau': 
+      case 'CSS': 
         color = 'blue lighten-1'; 
         break; 
-      case 'Plante': 
+      case 'PHP': 
         color = 'green lighten-1'; 
         break; 
-      case 'Insecte': 
+      case 'Java': 
         color = 'brown lighten-1'; 
         break; 
-      case 'Normal': 
+      case 'Javascript': 
         color = 'grey lighten-3'; 
         break; 
-      case 'Vol': 
+      case 'UNIX': 
         color = 'blue lighten-3'; 
         break; 
-      case 'Poison': 
+      case 'C': 
         color = 'deep-purple accent-1'; 
         break; 
-      case 'Fée': 
+      case 'C++': 
         color = 'pink lighten-4'; 
         break; 
-      case 'Psy': 
+      case '.NET': 
         color = 'deep-purple darken-2'; 
         break; 
-      case 'Electrik': 
+      case 'SQL': 
         color = 'lime accent-1'; 
         break; 
-      case 'Combat': 
+      case 'ASM': 
         color = 'deep-orange'; 
         break; 
       default: 

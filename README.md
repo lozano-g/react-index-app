@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+Work in Progress
+
+Demo project made with the sole intention of discovering ReactJS.
+
+The app consist of listing editable user profiles with card displays.
+
+Can be executed locally with a json server, would need a proper back-end for a production configuration.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
